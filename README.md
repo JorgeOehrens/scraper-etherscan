@@ -1,5 +1,6 @@
-8
+
 <img width="1786" alt="Screenshot 2024-12-17 at 5 11 32 pm" src="https://github.com/user-attachments/assets/5df05f19-c91e-4646-8c6a-340c81688c3f" />
+
 
 # ⚡ Etherscan API Scraper 
 
