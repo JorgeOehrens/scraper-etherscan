@@ -135,5 +135,5 @@ Balance guardado en 'balance.json'
 
 ## **👨‍💻 Autor**
 
-Desarrollado por **[Tu Nombre]**. Si tienes preguntas o mejoras, ¡no dudes en contribuir! 🚀
+Desarrollado por **Jorge Oehrens**. Si tienes preguntas o mejoras, ¡no dudes en contribuir! 🚀
 
