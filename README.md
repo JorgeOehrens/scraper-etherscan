@@ -1,3 +1,6 @@
+8
+<img width="1786" alt="Screenshot 2024-12-17 at 5 11 32 pm" src="https://github.com/user-attachments/assets/5df05f19-c91e-4646-8c6a-340c81688c3f" />
+
 # ⚡ Etherscan API Scraper 
 
 Este script interactúa con la **API de Etherscan** para obtener las transacciones y el balance de una dirección de Ethereum. Clasifica las transacciones, filtra sus valores y guarda los resultados en formato **JSON**.
@@ -131,5 +134,5 @@ Balance guardado en 'balance.json'
 
 ## **👨‍💻 Autor**
 
-Desarrollado por **[Tu Nombre]**. Si tienes preguntas o mejoras, ¡no dudes en contribuir! 🚀
+Desarrollado por **Jorge Oehrens**. Si tienes preguntas o mejoras, ¡no dudes en contribuir! 🚀
 
